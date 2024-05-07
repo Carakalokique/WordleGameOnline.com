@@ -1,7 +1,7 @@
 {
   "name": "game",
   "version": "0.1.0",
-  "homepage": "wordlegameonline.com",
+  "homepage": "https://wordlegameonline.com",
   "private": true,
   "scripts": {
     "predeploy": "npm run build",
